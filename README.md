@@ -1,2 +1,3 @@
 # whitsEnd
-My general use repository
+# My general use repository
+Understanding Branching
